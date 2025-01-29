@@ -19,7 +19,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 
 	// Construct the response
 	response := Response{
-		Email:          "your-email@example.com",
+		Email:          "btadamz@example.com",
 		CurrentDateTime: time.Now().UTC().Format(time.RFC3339),
 		GitHubURL:      "https://github.com/yourusername/hng-backend-task",
 	}
