@@ -21,7 +21,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	response := Response{
 		Email:          "btadamz@example.com",
 		CurrentDateTime: time.Now().UTC().Format(time.RFC3339),
-		GitHubURL:      "https://github.com/yourusername/hng-backend-task",
+		GitHubURL:      "https://github.com/adamsbite/hng-backend-task",
 	}
 
 	// Write the response
