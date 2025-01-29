@@ -1,6 +1,6 @@
 # HNG Backend Task
 Deployment
-The API is deployed at: https://hng-backend-task-r7b6.onrender.com
+The API is deployed at:https://hng-backend-task-r7b6.onrender.com
 
 ## Description
 This API provides basic information, including:
